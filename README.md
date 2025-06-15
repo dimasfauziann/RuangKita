@@ -46,6 +46,18 @@ RuangKita adalah aplikasi mobile berbasis React Native yang digunakan untuk memu
   npx react-native run-ios
 ```
 
+## Informasi Login 
+Gunakan akun berikut untuk mencoba fitur login:
+
+- Username: zyon
+
+- Password: 12345
+
+#### Alternatif user:
+
+- Username: admin
+
+- Password: 12345
 
 ## Fitur Aplikasi
 - Login dengan validasi Formik + Yup
@@ -65,7 +77,7 @@ RuangKita adalah aplikasi mobile berbasis React Native yang digunakan untuk memu
 
 
 
-## Fitur Aplikasi
+## Kontribusi
 #### untuk pengembangkan aplikasi ini lebih lanjut:
 - Fork repositori ini
 
