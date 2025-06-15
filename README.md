@@ -18,7 +18,7 @@ RuangKita adalah aplikasi mobile berbasis React Native yang digunakan untuk memu
 ### 1. Clone Repository
 
 ```bash
-  git clone https://github.com/hristranstv/react-native-meeting-room-test.git
+  git clone https://github.com/dimasfauziann/RuangKita.git
 ```
 
 ### 2. Install Dependencies
